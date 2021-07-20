@@ -1,0 +1,2 @@
+rootProject.name = "AndroidModule2Lesson6Task1MultiplicationTable"
+include ':app'
